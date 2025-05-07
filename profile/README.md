@@ -1,3 +1,5 @@
+<img src="https://media-bucket24.s3.us-east-1.amazonaws.com/1746589963390-72e14cea8b878ab8.jpeg" width="100%">
+
 # Creative Script
 
 > **Crafting Intelligence, Scripting Innovation**
